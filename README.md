@@ -10,6 +10,7 @@ NVIDIA Quadro K1000M
 
 Spesifikasi Software
 -Visual Studio Code
+-Notepad ++
 -Bootstrap 
 -Figma
 -Chrome
